@@ -1,0 +1,104 @@
+{
+  "profile": {
+    "name": "Adedo Lukmon",
+    "title": "Senior Geospatial Engineer",
+    "summary": "Geodatabase Specialist and GIS Analyst with expertise in remote sensing, spatial data management, and telecom network surveying. Adept at leveraging geospatial technologies to drive operational efficiency and data-driven decision making.",
+    "stats": [
+      { "label": "Experience", "value": "6+ Years" },
+      { "label": "Domains", "value": "6" },
+      { "label": "MSc GPA", "value": "4.58" },
+      { "label": "Route Surveys", "value": "62km" }
+    ],
+    "email": "hello@example.com",
+    "linkedin": "https://linkedin.com/in/adedolukmon",
+    "github": "https://github.com/mcdoman"
+  },
+  "capabilities": [
+    {
+      "category": "GIS Platforms",
+      "icon": "globe",
+      "skills": ["ArcGIS Pro", "ArcMap", "QGIS", "Google Earth", "ArcGIS Field Maps"]
+    },
+    {
+      "category": "Remote Sensing",
+      "icon": "satellite",
+      "skills": ["ENVI", "TERRSET", "SNAP", "Digital Earth Africa", "Google Earth Engine"]
+    },
+    {
+      "category": "Data Engineering",
+      "icon": "database",
+      "skills": ["Python", "SQL", "geopandas", "ArcPy", "Power BI", "SPSS"]
+    }
+  ],
+  "projects": [
+    {
+      "title": "TELECOM Optic-Fibre Route Surveys",
+      "role": "Field GIS Lead",
+      "tags": ["Survey123", "GPS", "ArcMap"],
+      "description": "Led end-to-end TELECOM optic-fibre route surveys for IHS tower sites across Imo and Sokoto states—physically surveying and mapping 62 km of proposed FTTH underground cable routes and identifying optimised alternative alignments to reduce route length and construction cost."
+    },
+    {
+      "title": "Lagos State Blue Rail Project",
+      "role": "Survey Officer",
+      "tags": ["KoboCollect", "Transport Modelling"],
+      "description": "Conducted preference and intercept surveys for the Lagos State Blue Rail Project, collecting primary spatial and attitudinal data from bus and ferry passengers to feed into transport modelling and policy design."
+    },
+    {
+      "title": "Utility Network Modernisation",
+      "role": "Geodatabase Specialist",
+      "tags": ["ESRI", "Utility Network"],
+      "description": "Integrated multi-source geospatial data into a unified distribution-network view, harmonising schemas and resolving interoperability conflicts across internal systems."
+    }
+  ],
+  "employment": [
+    {
+      "role": "Geodatabase Specialist",
+      "company": "Ikeja Electric Plc",
+      "duration": "June 2024 - Present"
+    },
+    {
+      "role": "Geographic Information Systems Analyst",
+      "company": "Ikeja Electric Plc",
+      "duration": "June 2022 - May 2024"
+    },
+    {
+      "role": "Field Survey Officer",
+      "company": "Brigooa Technologies",
+      "duration": "Feb - Mar 2022"
+    },
+    {
+      "role": "GIS Consultant",
+      "company": "Daimler Geographics Limited",
+      "duration": "Nov 2020 - Dec 2021"
+    },
+    {
+      "role": "Field Assistant / Data Entry Officer",
+      "company": "Geo-Trans Associate Limited",
+      "duration": "July - Sept 2020"
+    },
+    {
+      "role": "Spatial Data Entry & Cleaning Officer",
+      "company": "Daimler Geographics Limited",
+      "duration": "Jan 2019 - July 2020"
+    },
+    {
+      "role": "GIS Analyst Intern",
+      "company": "University of Lagos",
+      "duration": "Sept 2018 - Jan 2019"
+    }
+  ],
+  "education": [
+    {
+      "degree": "MSc Geography & Planning (Remote Sensing)",
+      "institution": "University of Lagos",
+      "duration": "Nov 2023",
+      "honor": "Distinction (4.58 GPA, Top 1%)"
+    },
+    {
+      "degree": "BSc Geography & Planning",
+      "institution": "University of Lagos",
+      "duration": "Nov 2019",
+      "honor": "2nd Class Upper (4.27/5.00, Top 2%)"
+    }
+  ]
+}
